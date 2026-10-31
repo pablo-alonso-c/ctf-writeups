@@ -4,4 +4,4 @@
 
 - Writeup: [RSA_C3TF_Writeup.pdf](RSA_C3TF_Writeup.pdf)
 - Solución: [solve.py](solve.py)
-- Archivos del reto: [challenge/](challenge)
+- Archivos del reto: [challenge/](Challenge)
