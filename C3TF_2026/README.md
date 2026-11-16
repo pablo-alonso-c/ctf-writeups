@@ -7,3 +7,4 @@
 | Reto | Categoría | Writeup |
 |------|-----------|---------|
 | Factorización de un módulo RSA de 256 bits | Crypto | [RSA](RSA) |
+| Predicción de un PRNG sembrado con la hora | Crypto | [Palabra del día](palabra-del-dia) |
